@@ -10,8 +10,8 @@
      <h1 class="text-center">Welcome to</h1>
       <img src="http://www.learntek.org/wp-content/uploads/2017/08/jenkins_image.png" alt="Spidertocat"
            class="img-responsive center-block" style="width:250px"/>
-      <h1 class="text-center">Hello from Rohit</h1>
-      <h2 class="text-center">Wright state university </h2>
+      <h1 class="text-center">Hello from Rohit Repudi</h1>
+      <h2 class="text-center">Wright state university,Ohio </h2>
 	<h2 class="text-center"> United States of America  </h2>
   </div>
 </body>
