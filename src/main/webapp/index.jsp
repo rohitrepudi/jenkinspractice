@@ -12,7 +12,7 @@
            class="img-responsive center-block" style="width:250px"/>
       <h1 class="text-center">Hello from Rohit</h1>
       <h2 class="text-center">Wright state university </h2>
-	<h2 class="text-center"> States  </h2>
+	<h2 class="text-center"> United States of America  </h2>
   </div>
 </body>
 </html>
